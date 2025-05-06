@@ -1,44 +1,8 @@
 Microsoft Windows [version 6.3.9600]
 (c) 2013 Microsoft Corporation. Tous droits r‚serv‚s.
 
-C:\Users\mickael\Desktop\222\democ2\bin\Debug>cmd /k ipconfig
-
-Configuration IP de Windows
-
-
-Carte Ethernet Ethernet 5 :
-
-   Statut du m‚dia. . . . . . . . . . . . : M‚dia d‚connect‚
-   Suffixe DNS propre … la connexion. . . : 
-
-Carte Ethernet Ethernet 4 :
-
-   Statut du m‚dia. . . . . . . . . . . . : M‚dia d‚connect‚
-   Suffixe DNS propre … la connexion. . . : 
-
-Carte Ethernet Ethernet 3 :
-
-   Statut du m‚dia. . . . . . . . . . . . : M‚dia d‚connect‚
-   Suffixe DNS propre … la connexion. . . : 
-
-Carte Ethernet Ethernet 2 :
-
-   Suffixe DNS propre … la connexion. . . : 
-   Adresse IPv6. . . . . . . . . . .ÿ. . .: 2a01:e0a:bb7:490:b06a:ab6a:35e7:c26
-   Adresse IPv6 temporaire . . . . . . . .: 2a01:e0a:bb7:490:104c:923a:d0ec:e288
-   Adresse IPv6 de liaison locale. . . . .: fe80::b06a:ab6a:35e7:c26%5
-   Adresse IPv4. . . . . . . . . . . . . .: 192.168.1.43
-   Masque de sous-r‚seau. . . .ÿ. . . . . : 255.255.255.0
-   Passerelle par d‚faut. . . .ÿ. . . . . : fe80::224:d4ff:fea0:2c04%5
-	                               192.168.1.254
-
-Carte Ethernet Ethernet :
-
-   Suffixe DNS propre … la connexion. . . : 
-   Adresse IPv6 de liaison locale. . . . .: fe80::38d8:9d06:cc23:c4e1%3
-   Adresse IPv4. . . . . . . . . . . . . .: 10.0.2.15
-   Masque de sous-r‚seau. . . .ÿ. . . . . : 255.255.255.0
-   Passerelle par d‚faut. . . .ÿ. . . . . : 10.0.2.2
+C:\Users\mickael\Desktop\222\democ2\bin\Debug>cmd /k whoami
+pc-win8\mickael
 
 C:\Users\mickael\Desktop\222\democ2\bin\Debug>
 C:\Users\mickael\Desktop\222\democ2\bin\Debug>
