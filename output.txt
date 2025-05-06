@@ -1,8 +1,21 @@
 Microsoft Windows [version 6.3.9600]
 (c) 2013 Microsoft Corporation. Tous droits réservés.
 
-C:\Users\mickael\Desktop\222\democ2\bin\Debug>cmd /k whoami
-pc-win8\mickael
+C:\Users\mickael\Desktop\222\democ2\bin\Debug>cmd /k dir
+ Le volume dans le lecteur C s'appelle Disque Système
+ Le numéro de série du volume est E609-659F
+
+ Répertoire de C:\Users\mickael\Desktop\222\democ2\bin\Debug
+
+06/05/2025  12:45    <DIR>          .
+06/05/2025  12:45    <DIR>          ..
+06/05/2025  12:45             8 704 democ2.exe
+06/05/2025  12:23               189 democ2.exe.config
+06/05/2025  12:45            22 016 democ2.pdb
+08/01/2025  19:25         1 399 296 Octokit.dll
+08/01/2025  19:25         2 588 224 Octokit.xml
+               5 fichier(s)        4 018 429 octets
+               2 Rép(s)   9 778 962 432 octets libres
 
 C:\Users\mickael\Desktop\222\democ2\bin\Debug>
 C:\Users\mickael\Desktop\222\democ2\bin\Debug>
