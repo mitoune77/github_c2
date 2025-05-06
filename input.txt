@@ -1,1 +1,2 @@
-commande à exécuter
+whoami
+ipconfig
