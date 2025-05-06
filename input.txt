@@ -1,8 +1,1 @@
-// Exemple:
-
-// Affiche la config réseau
 ipconfig
-
-// Écrit un message dans un fichier txt et l'ouvre avec Notepad
-echo texte > %TEMP%message.txt
-notepad %TEMP%message.txt
