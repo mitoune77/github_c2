@@ -1,1 +1,9 @@
+Microsoft Windows [version 6.3.9600]
+(c) 2013 Microsoft Corporation. Tous droits réservés.
 
+C:\Users\mickael\Desktop\222\democ2\bin\Debug>cmd /k whoami
+pc-win8\mickael
+
+C:\Users\mickael\Desktop\222\democ2\bin\Debug>
+C:\Users\mickael\Desktop\222\democ2\bin\Debug>
+C:\Users\mickael\Desktop\222\democ2\bin\Debug>
