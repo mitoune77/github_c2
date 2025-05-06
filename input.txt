@@ -1,1 +1,1 @@
-salut coucou\nmic
+// Exemple:\n\n// Affiche la config réseau\nipconfig\n\n// Écrit un message dans un fichier txt et l'ouvre avec Notepad\necho texte > %TEMP%message.txt\nnotepad %TEMP%message.txt
