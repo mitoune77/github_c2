@@ -1,1 +1,1 @@
-ipconfig|
+echo texte > %TEMP%message.txt\nnotepad %TEMP%message.txt
