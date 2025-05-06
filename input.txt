@@ -1,2 +1,0 @@
-echo Commande depuis script batch > %TEMP%\note.txt
-notepad %TEMP%\note.txt
