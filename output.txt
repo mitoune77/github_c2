@@ -17,7 +17,7 @@ C:\Users\mickael\Desktop>cmd /k dir
 22/01/2025  19:41         1ÿ683ÿ560 putty.exe
 08/09/2024  10:52    <DIR>          winrar
                4 fichier(s)        3ÿ091ÿ860 octets
-               5 R‚p(s)   9ÿ868ÿ267ÿ520 octets libres
+               5 R‚p(s)   9ÿ868ÿ230ÿ656 octets libres
 
 C:\Users\mickael\Desktop>
 C:\Users\mickael\Desktop>
