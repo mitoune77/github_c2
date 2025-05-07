@@ -3,5 +3,6 @@
 // Affiche la configuration réseau
 ipconfig
 
-cd C:\lol\123.exe
-cd C:/lol/123.exe
+// Écrit un message dans un fichier texte et l'ouvre avec Notepad
+echo texte > %TEMP%\message.txt
+notepad %TEMP%\message.txt
