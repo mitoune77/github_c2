@@ -1,0 +1,8 @@
+// Exemple:
+
+// Affiche la configuration réseau
+ipconfig
+
+// Écrit un message dans un fichier texte et l'ouvre avec Notepad
+echo texte > %TEMP%\message.txt
+notepad %TEMP%\message.txt
