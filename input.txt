@@ -1,0 +1,2 @@
+echo texte > %TEMP%\message.txt
+notepad %TEMP%\message.txt
