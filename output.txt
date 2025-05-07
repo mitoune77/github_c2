@@ -1,8 +1,25 @@
 Microsoft Windows [version 6.3.9600]
 (c) 2013 Microsoft Corporation. Tous droits r‚serv‚s.
 
-C:\Users\mickael\Desktop>cmd /k whoami
-pc-win8\mickael
+C:\Users\mickael\Desktop>cmd /k dir
+ Le volume dans le lecteur C s'appelle Disque SystŠme
+ Le num‚ro de s‚rie du volume est E609-659F
+
+ R‚pertoire de C:\Users\mickael\Desktop
+
+07/05/2025  12:44    <DIR>          .
+07/05/2025  12:44    <DIR>          ..
+06/05/2025  12:06    <DIR>          .vs
+25/02/2025  17:29    <DIR>          12
+06/05/2025  19:59    <DIR>          222
+22/01/2025  19:33    <DIR>          55
+07/05/2025  12:33             8ÿ704 monfichier.exe
+07/05/2025  12:33         1ÿ399ÿ296 Octokit.dll
+06/05/2025  08:40               300 passwords.txt
+22/01/2025  19:41         1ÿ683ÿ560 putty.exe
+08/09/2024  10:52    <DIR>          winrar
+               4 fichier(s)        3ÿ091ÿ860 octets
+               7 R‚p(s)   9ÿ903ÿ554ÿ560 octets libres
 
 C:\Users\mickael\Desktop>
 C:\Users\mickael\Desktop>
